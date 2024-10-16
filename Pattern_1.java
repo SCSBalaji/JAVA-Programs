@@ -31,5 +31,6 @@ public class Pattern_1
             }
             System.out.println();                   // Move to the next line after each row
         }
+        sc.close();             // Close the scanner object
     }
 }
