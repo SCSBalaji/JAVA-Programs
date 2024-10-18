@@ -1,5 +1,5 @@
 /**
- * Pattern_4
+ * Pattern4
  */
 
 /* Write a program to print the pattern with input from user
@@ -13,7 +13,7 @@
 
 import java.util.*;
 
-public class Pattern_4 
+public class Pattern4 
 {
     public static void main(String[] args) 
     {

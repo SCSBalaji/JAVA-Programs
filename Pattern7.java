@@ -1,5 +1,5 @@
 /**
- * Pattern_7
+ * Pattern7
  */
 
 /*
@@ -18,7 +18,7 @@ output =
 
 import java.util.*;
 
-public class Pattern_7 {
+public class Pattern7 {
     public static void main(String [] args)
     {
         int n, old = 0, number = 1, temp;           // Variables to store the number of rows, and Fibonacci sequence numbers

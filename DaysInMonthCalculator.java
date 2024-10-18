@@ -1,5 +1,5 @@
 /**
- * Days_In_Month_Calculator
+ * DaysInMonthCalculator
  */
 
 /*Little Vicky often gets confused when trying to figure out
@@ -15,7 +15,7 @@ Sample output
 
 import java.util.*;
 
-public class Days_In_Month_Calculator 
+public class DaysInMonthCalculator 
 {
     public static void main(String[] args)
     {

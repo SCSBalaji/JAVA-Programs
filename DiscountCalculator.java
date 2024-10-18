@@ -1,5 +1,5 @@
 /**
- * Discount_Calculator
+ * DiscountCalculator
  */
 
 /*Etansha goes shopping at her favorite store, where different 
@@ -24,7 +24,7 @@ output:
 */
 import java.util.*;
 
-public class Discount_Calculator {
+public class DiscountCalculator {
     public static void main(String []args)
     {
         Scanner s = new Scanner(System.in);
