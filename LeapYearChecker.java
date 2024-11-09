@@ -1,4 +1,11 @@
-
+/**
+ * This program checks if a given year is a leap year or not.
+ * A leap year is exactly divisible by 4 except for century years (years ending with 00).
+ * The century year is a leap year only if it is perfectly divisible by 400.
+ * 
+ * The program prompts the user to enter a year and then determines whether the year is a leap year.
+ * It prints the result to the console.
+ */
 
 import java.util.*;
 public class LeapYearChecker 
